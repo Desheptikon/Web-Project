@@ -37,8 +37,15 @@
      <h3 class="text-2xl font-bold mb-2 text-black">
       Project Three
      </h3>
+   </h3>
      <p class="text-gray-600">
-      A creative project that delves into the world of cyberpunk.
+      A groundbreaking project that explores the future of AI.
+     </p>
+    </div>
+    <div class="bg-gray-100 p-4 rounded-lg">
+     <img alt="A detailed illustration of a cyberpunk character in a dark alley in black and white" class="rounded-lg mb-4" src="https://placehold.co/600x400"/>
+     <h3 class="text-2xl font-bold mb-2 text-black">
+     </h3>   
      </p>
     </div>
    </div>
